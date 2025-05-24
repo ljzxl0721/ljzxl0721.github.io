@@ -17,10 +17,10 @@ const config = {
   // 设置为你的 GitHub Pages URL
   url: 'https://ljzxl0721.github.io',
   // 设置为仓库名
-  baseUrl: '/ljzxl0721.github.io-main/',
+  baseUrl: '/',
   
   organizationName: 'ljzxl0721', // 通常是你的 GitHub 用户名
-  projectName: 'ljzxl0721.github.io-main', // 仓库名
+  projectName: 'ljzxl0721.github.io', // 仓库名
   trailingSlash: false,
   
   // GitHub Pages 部署配置
